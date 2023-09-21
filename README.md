@@ -2,7 +2,7 @@
 
 ## Interests: Data Science, Machine Learning and Optimization
 
-### Techinical Skills: Python, SQL, R, Gurobi, PowerBI
+### Techinical Skills: Python, SQL, R, Gurobi, Herustucs, Optimization Algorithms, PowerBI
 
 ## Education
 - Master of Science, Theoretical and Applied Optimization | he Federal University of Parana (_February 2025 (expected)_)
